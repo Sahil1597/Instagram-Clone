@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.fecc4ee0.chunk.css",
-    "main.js": "/static/js/main.881e27d6.chunk.js",
-    "main.js.map": "/static/js/main.881e27d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a41b20c0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a41b20c0.js.map",
-    "static/js/2.4e71fee2.chunk.js": "/static/js/2.4e71fee2.chunk.js",
-    "static/js/2.4e71fee2.chunk.js.map": "/static/js/2.4e71fee2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4027a242fe914d6d282034672c50a23a.js": "/precache-manifest.4027a242fe914d6d282034672c50a23a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fecc4ee0.chunk.css.map": "/static/css/main.fecc4ee0.chunk.css.map",
-    "static/js/2.4e71fee2.chunk.js.LICENSE.txt": "/static/js/2.4e71fee2.chunk.js.LICENSE.txt"
+    "main.css": "/Instagram-Clone/static/css/main.fecc4ee0.chunk.css",
+    "main.js": "/Instagram-Clone/static/js/main.51874603.chunk.js",
+    "main.js.map": "/Instagram-Clone/static/js/main.51874603.chunk.js.map",
+    "runtime-main.js": "/Instagram-Clone/static/js/runtime-main.de5b5b16.js",
+    "runtime-main.js.map": "/Instagram-Clone/static/js/runtime-main.de5b5b16.js.map",
+    "static/js/2.4e71fee2.chunk.js": "/Instagram-Clone/static/js/2.4e71fee2.chunk.js",
+    "static/js/2.4e71fee2.chunk.js.map": "/Instagram-Clone/static/js/2.4e71fee2.chunk.js.map",
+    "index.html": "/Instagram-Clone/index.html",
+    "precache-manifest.0d7742fc533c266c4ac2da7d0de5e4d0.js": "/Instagram-Clone/precache-manifest.0d7742fc533c266c4ac2da7d0de5e4d0.js",
+    "service-worker.js": "/Instagram-Clone/service-worker.js",
+    "static/css/main.fecc4ee0.chunk.css.map": "/Instagram-Clone/static/css/main.fecc4ee0.chunk.css.map",
+    "static/js/2.4e71fee2.chunk.js.LICENSE.txt": "/Instagram-Clone/static/js/2.4e71fee2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a41b20c0.js",
+    "static/js/runtime-main.de5b5b16.js",
     "static/js/2.4e71fee2.chunk.js",
     "static/css/main.fecc4ee0.chunk.css",
-    "static/js/main.881e27d6.chunk.js"
+    "static/js/main.51874603.chunk.js"
   ]
 }
