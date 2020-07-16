@@ -13,4 +13,4 @@ When a user signup using their email.A Welcome Message would be send to the user
 
 ####
 You can see it here...
-[Click Me](https://sahil1597.github.io/Instagram-Clone/)
+[Click Me](https://git.heroku.com/insta-clone-sahil.git)
